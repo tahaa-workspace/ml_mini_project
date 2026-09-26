@@ -1,0 +1,13 @@
+Column,Data Type,Missing Values,Unique Values
+Posted On,object,0,81
+BHK,int64,0,6
+Rent,int64,0,243
+Size,int64,0,615
+Floor,object,0,480
+Area Type,object,0,3
+Area Locality,object,0,2235
+City,object,0,6
+Furnishing Status,object,0,3
+Tenant Preferred,object,0,3
+Bathroom,int64,0,8
+Point of Contact,object,0,3
